@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.minfrom1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.minfrom2: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.insertanddelete: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.sortedsequence: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min_of_melding: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.insert_delete_insert_delete: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.this_is_it: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.delete_until_empty: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.insert_0,1,2...: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.insert_and_delete_001: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.two_integers: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.three_integers: OK, passed 100 tests.[0m

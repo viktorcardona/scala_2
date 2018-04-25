@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mCalculatorSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- tweetRemainingCharsCount with a constant signal[0m[0m
+[0m[[0minfo[0m] [0m[32m- tweetRemainingCharsCount with a supplementary char[0m[0m
+[0m[[0minfo[0m] [0m[32m- colorForRemainingCharsCount with a constant signal[0m[0m
+[0m[[0minfo[0m] [0m[32m- polinomial x^2 -4x + 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- polinomial x^2 -10x + 7[0m[0m
+[0m[[0minfo[0m] [0m[32m- compute values a, b, c, d, e, f, g, h.[0m[0m
+[0m[[0minfo[0m] [0m[32m- compute values -5.562827722895522 was not -0.1980358747915814 plus or minus 1.0E-5[0m[0m
